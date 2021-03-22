@@ -1,0 +1,26 @@
+
+
+# 登录正常场景
+login_success_data:
+  -
+    "user": "admin"
+    "pwd": '123456'
+    "check": 'web_login_url'
+
+wrong_datas:
+  -
+    "user": ""
+    "pwd": "123456"
+    "check": "必填参数为空"
+  -
+    "user": "admin"
+    "pwd": ""
+    "check": "登录失败，帐号或密码错误"
+  -
+    "user": "adminn"
+    "pwd": "123456"
+    "check": "账户不存在,请联系管理员"
+  -
+    "user": "admin"
+    "pwd": "1234567"
+    "check": "登录失败，帐号或密码错误"
