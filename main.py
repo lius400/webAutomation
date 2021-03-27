@@ -1,3 +1,4 @@
+#!/use/bin/env python3
 # --^_^-- coding:utf-8 --^_^--
 # @Remark:运行入口
 
