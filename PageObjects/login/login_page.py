@@ -1,7 +1,7 @@
 # --^_^-- coding:utf-8 --^_^--
 # @Remark:登录页面
 
-from Common.basepage import BasePage
+from Common.BasePage import BasePage
 from PageLocators.login.login_page_locator import LoginPageLocator as loc
 
 

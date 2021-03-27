@@ -1,1 +1,1 @@
-__all__ = ['basepage','BeautifulReport','dir_config','logger','InitializeDriver','readYaml']
+__all__ = ['BeautifulReport', 'dir_config', 'logger', 'InitializeDriver', 'readYaml']

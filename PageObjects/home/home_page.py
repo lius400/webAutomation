@@ -1,7 +1,7 @@
 # --^_^-- coding:utf-8 --^_^--
 # @Remark:主页面
 
-from Common.basepage import BasePage
+from Common.BasePage import BasePage
 from PageLocators.home.home_page_locator import HomePageLocator as homeloc
 
 
